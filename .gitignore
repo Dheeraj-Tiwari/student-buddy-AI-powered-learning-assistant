@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+studybuddy-env/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Uploaded files
+uploads/
+
+# Static files
+staticfiles/
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Test coverage reports
+htmlcov/
+*.cover
+*.coverage
+.cache
+coverage.xml
+nosetests.xml
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Pytest cache
+.pytest_cache/
+# mypy
+.mypy_cache/
+# Pyre type checker

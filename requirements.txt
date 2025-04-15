@@ -1,0 +1,11 @@
+# requirements.txt
+flask
+transformers
+torch
+sentencepiece
+PyPDF2
+python-docx
+accelerate 
+google-generativeai # For Google Gemini API
+groq                # For Groq API
+python-dotenv       # To load API keys from .env file
